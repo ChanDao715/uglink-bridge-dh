@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://dh2600-2ccb.cn21.ug.link/"
 PORT = "3001"
-USERNAME = ""
+USERNAME = "sub"
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
